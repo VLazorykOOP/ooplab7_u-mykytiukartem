@@ -1,0 +1,3 @@
+﻿andrew;comp;physics:60;Physics:50
+MIKITUK;KI;Physics:60
+ARTEM;KI;Physics:20
